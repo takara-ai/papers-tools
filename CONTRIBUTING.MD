@@ -21,8 +21,8 @@ We welcome contributions to our repository! Please follow these guidelines to co
 
 ### Adding a Tool
 
-    Place your tool description and link in the appropriate category within the tools directory.
-    Use the following format:
+- Place your tool description and link in the appropriate category within the `tools` directory.
+- Use the following format:
 
 ```markdown
 ### Tool Name
