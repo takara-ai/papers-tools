@@ -35,3 +35,11 @@ This directory contains curated research papers related to deep learning.
 - **Published**: October 2, 2023
 - **Link**: [Textbooks Are All You Need](https://arxiv.org/abs/2306.11644)
 - **Summary**: This paper introduces phi-1, a Transformer-based large language model for code with 1.3B parameters, significantly smaller than competing models. Trained on "textbook quality" data from the web and synthetically generated textbooks, phi-1 achieves impressive results with pass@1 accuracy of 50.6% on HumanEval and 55.5% on MBPP. The study highlights the importance of high-quality data in achieving state-of-the-art results with reduced model size and training compute, demonstrating that high-quality data can break existing scaling laws in deep learning.
+
+### MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning
+
+- **Authors**: Ting Jiang, Shaohan Huang, Shengyue Luo, Zihan Zhang, Haizhen Huang, Furu Wei, Weiwei Deng, Feng Sun, Qi Zhang, Deqing Wang, Fuzhen Zhuang
+- **Affiliations**: Beihang University, Microsoft Corporation
+- **Published**: May 20, 2024
+- **Link**: [MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2405.12130)
+- **Summary**: This paper presents MoRA, a method that employs a square matrix for high-rank updating in parameter-efficient fine-tuning (PEFT) of large language models (LLMs), contrasting with the low-rank adaptation approach of LoRA. MoRA maintains the same number of trainable parameters while achieving superior performance on memory-intensive tasks and comparable results on other tasks. It introduces non-parameter operators to adjust input and output dimensions, enabling the integration of high-rank updates back into LLMs. The effectiveness of MoRA is demonstrated through comprehensive evaluations across various tasks including instruction tuning, mathematical reasoning, continual pretraining, and pretraining from scratch.
