@@ -32,6 +32,7 @@ Finally create a markdown file in this format inside a code block but fill in th
 - **Affiliation**: [Organisation]
 - **Summary**: [Brief Summary Of The Paper]
 ```
+Paste the output of the code block directly into the page the category is related to.
 
 ### Adding a Research Paper Manually
 
