@@ -1,4 +1,4 @@
-# Deep Learning Papers
+# 🧠 Deep Learning Papers
 
 This directory contains curated research papers related to deep learning.
 
