@@ -16,6 +16,7 @@ We welcome contributions to our Wiki! Please follow these guidelines to contribu
 
 - **Authors**: Author names
 - **Link**: [Paper Link](URL)
+- **Affiliation**: [Organisation]
 - **Summary**: Brief summary of the paper.
 ```
 
@@ -29,13 +30,10 @@ We welcome contributions to our Wiki! Please follow these guidelines to contribu
 
 - **Description**: Brief description of the tool.
 - **Link**: [Tool Link](URL)
-- **Category**: Relevant category (e.g., data engineering, model training).
+- **Affiliation**: [Organisation]
+-  **Summary**: Brief summary of the tool.
 ```
 
 Thank you for your contributions! Your efforts help us maintain a valuable resource for the AI and ML community.
-
----
-
-### Updated README for Takara.ai Research Papers and Tools Repository
 
 ```markdown
