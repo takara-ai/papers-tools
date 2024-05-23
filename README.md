@@ -6,8 +6,8 @@ Welcome to Takara.ai's repository for our favorite research papers and tools for
 
 ## 📖 Explore the Wiki
 
-- [Research Papers](/wiki)
-- [Tools and Libraries](/wiki)
+- [Research Papers](https://github.com/takara-ai/papers-tools/wiki)
+- [Tools and Libraries](https://github.com/takara-ai/papers-tools/wiki)
 
 ## Contributing
 
