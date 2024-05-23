@@ -11,7 +11,7 @@ Welcome to Takara.ai's repository for our favourite research papers and tools fo
 
 ## Contributing
 
-We welcome contributions from the community! Please refer to the [Contributing Guidelines](/CONTRIBUTING.MD) in our Wiki for more information.
+We welcome contributions from the community! Please refer to the [Contributing Guidelines](/CONTRIBUTING.MD) for more information.
 
 ## 📢 Announcements
 
