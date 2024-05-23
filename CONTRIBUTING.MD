@@ -10,7 +10,7 @@ We welcome contributions to our Wiki! Please follow these guidelines to contribu
 
 Upload the PDF with this prompt into GPT4-T or GPT4o
 
-```
+```markdown
 Read the PDF and choose a category this paper sits in from these categories: 
     - Machine Learning
     - Deep Learning
