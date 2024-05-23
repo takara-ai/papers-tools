@@ -27,3 +27,11 @@ This directory contains curated research papers related to deep learning.
 - **Published**: June 12, 2017 (31st Conference on Neural Information Processing Systems, NIPS 2017)
 - **Link**: [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - **Summary**: This paper introduces the Transformer model, a novel architecture based solely on attention mechanisms, eschewing recurrence and convolutions entirely. The Transformer demonstrates superior performance in machine translation tasks, achieving state-of-the-art results with significantly improved parallelization and reduced training times. The model achieves 28.4 BLEU on the WMT 2014 English-to-German translation task and 41.8 BLEU on the WMT 2014 English-to-French translation task, setting new benchmarks in translation quality. The Transformer also generalizes well to other tasks, such as English constituency parsing.
+
+### Textbooks Are All You Need
+
+- **Authors**: Suriya Gunasekar, Yi Zhang, Jyoti Aneja, Caio César Teodoro Mendes, Allie Del Giorno, Sivakanth Gopi, Mojan Javaheripi, Piero Kauffmann, Gustavo de Rosa, Olli Saarikivi, Adil Salim, Shital Shah, Harkirat Singh Behl, Xin Wang, Sébastien Bubeck, Ronen Eldan, Adam Tauman Kalai, Yin Tat Lee, Yuanzhi Li
+- **Affiliation**: Microsoft Research
+- **Published**: October 2, 2023
+- **Link**: [Textbooks Are All You Need](https://arxiv.org/abs/2306.11644)
+- **Summary**: This paper introduces phi-1, a Transformer-based large language model for code with 1.3B parameters, significantly smaller than competing models. Trained on "textbook quality" data from the web and synthetically generated textbooks, phi-1 achieves impressive results with pass@1 accuracy of 50.6% on HumanEval and 55.5% on MBPP. The study highlights the importance of high-quality data in achieving state-of-the-art results with reduced model size and training compute, demonstrating that high-quality data can break existing scaling laws in deep learning.
