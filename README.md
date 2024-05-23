@@ -10,3 +10,5 @@ Welcome to Takara.ai's repository for our favorite research papers and tooling f
 ## Contributing
 
 We welcome contributions from the community! Please refer to the [Contributing Guidelines](CONTRIBUTING.md) for more information.
+
+# タカラサイエンスリサーチ。
