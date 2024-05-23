@@ -6,7 +6,34 @@ We welcome contributions to our Wiki! Please follow these guidelines to contribu
 2. **Edit the appropriate Wiki page** with your addition.
 3. **Create a pull request** with a clear description of your addition.
 
-### Adding a Research Paper
+## Using ChatGPT
+
+Upload the PDF with this prompt into GPT4-T or GPT4o
+
+```
+Read the PDF and choose a category this paper sits in from these categories: 
+    - Machine Learning
+    - Deep Learning
+    - Natural Language Processing
+    - Computer Vision
+    - Reinforcement Learning
+    - Infrastructure
+
+Then write out the category before the code block like this: - Category: [MACHINE LEARNING]
+
+Link to the paper: [FILL THIS IN BEFORE PROMPTING]
+
+Finally create a markdown file in this format inside a code block but fill in the placeholders:
+
+### [Paper Title]
+
+- **Authors**: [Author names]
+- **Link**: [Paper Link](URL)
+- **Affiliation**: [Organisation]
+- **Summary**: [Brief Summary Of The Paper]
+```
+
+### Adding a Research Paper Manually
 
 - Place your summary and link in the appropriate category within the Wiki.
 - Use the following format:
