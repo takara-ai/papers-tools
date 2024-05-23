@@ -2,7 +2,7 @@
 
 ## 技術と知識 (Gijutsu to Chishiki)
 
-Welcome to Takara.ai's repository for our favorite research papers and tools for AI and infrastructure applications. We have moved our collection to a dedicated Wiki to provide a more organized and user-friendly experience. Please visit our Wiki to access and contribute to our curated resources.
+Welcome to Takara.ai's repository for our favourite research papers and tools for AI and infrastructure applications. We have moved our collection to a dedicated Wiki to provide a more organized and user-friendly experience. Please visit our Wiki to access and contribute to our curated resources.
 
 ## 📖 Explore the Wiki
 
@@ -11,7 +11,7 @@ Welcome to Takara.ai's repository for our favorite research papers and tools for
 
 ## Contributing
 
-We welcome contributions from the community! Please refer to the [Contributing Guidelines](/wiki/Contributing) in our Wiki for more information.
+We welcome contributions from the community! Please refer to the [Contributing Guidelines](/CONTRIBUTING.MD) in our Wiki for more information.
 
 ## 📢 Announcements
 
