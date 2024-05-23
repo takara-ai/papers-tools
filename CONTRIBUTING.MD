@@ -1,14 +1,14 @@
 # Contributing to Takara.ai Resources
 
-We welcome contributions to our repository! Please follow these guidelines to contribute:
+We welcome contributions to our Wiki! Please follow these guidelines to contribute:
 
 1. **Fork the repository** and create a new branch for your contribution.
-2. **Add your resource** in the appropriate directory.
+2. **Edit the appropriate Wiki page** with your addition.
 3. **Create a pull request** with a clear description of your addition.
 
 ### Adding a Research Paper
 
-- Place your summary and link in the appropriate category within the `research-papers` directory.
+- Place your summary and link in the appropriate category within the Wiki.
 - Use the following format:
 
 ```markdown
@@ -21,7 +21,7 @@ We welcome contributions to our repository! Please follow these guidelines to co
 
 ### Adding a Tool
 
-- Place your tool description and link in the appropriate category within the `tools` directory.
+- Place your tool description and link in the appropriate category within the Wiki.
 - Use the following format:
 
 ```markdown
@@ -31,3 +31,11 @@ We welcome contributions to our repository! Please follow these guidelines to co
 - **Link**: [Tool Link](URL)
 - **Category**: Relevant category (e.g., data engineering, model training).
 ```
+
+Thank you for your contributions! Your efforts help us maintain a valuable resource for the AI and ML community.
+
+---
+
+### Updated README for Takara.ai Research Papers and Tools Repository
+
+```markdown
