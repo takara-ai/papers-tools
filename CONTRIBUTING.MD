@@ -7,6 +7,7 @@ We welcome contributions to our Wiki! Please follow these guidelines to contribu
 3. **Create a pull request** with a clear description of your addition.
 
 ## Using ChatGPT
+### Papers
 
 Upload the PDF with this prompt into GPT4-T or GPT4o
 
@@ -33,6 +34,38 @@ Finally create a markdown file in this format inside a code block but fill in th
 - **Summary**: [Brief Summary Of The Paper]
 ```
 Paste the output of the code block directly into the page the category is related to.
+
+## Tools
+
+Copy any relevant links or documents to the window.
+
+```markdown
+Read the information and choose a category this tool sits in from these categories: 
+
+- Data Engineering Tools
+- Model Training Tools
+- Deployment Tools
+- Monitoring Tools
+- Libraries
+- Frameworks
+
+
+Then write out the category before the code block like this: - Category: [Libraries]
+
+Link to the tool: [FILL THIS IN BEFORE PROMPTING]
+
+Finally create a markdown file in this format inside a code block but fill in the placeholders:
+
+### [Paper Title]
+
+- **Authors**: [Author names]
+- **Link**: [Paper Link](URL)
+- **Affiliation**: [Organisation]
+- **Summary**: [Brief Summary Of The Tool]
+```
+Paste the output of the code block directly into the page the category is related to.
+
+## Manually
 
 ### Adding a Research Paper Manually
 
