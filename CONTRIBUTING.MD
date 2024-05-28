@@ -40,6 +40,9 @@ Paste the output of the code block directly into the page the category is relate
 Copy any relevant links or documents to the window.
 
 ```markdown
+
+Information:[INFORMATION]
+
 Read the information and choose a category this tool sits in from these categories: 
 
 - Data Engineering Tools
@@ -56,10 +59,10 @@ Link to the tool: [FILL THIS IN BEFORE PROMPTING]
 
 Finally create a markdown file in this format inside a code block but fill in the placeholders:
 
-### [Paper Title]
+### [Tool Title]
 
 - **Authors**: [Author names]
-- **Link**: [Paper Link](URL)
+- **Link**: [Tool Link](URL)
 - **Affiliation**: [Organisation]
 - **Summary**: [Brief Summary Of The Tool]
 ```
