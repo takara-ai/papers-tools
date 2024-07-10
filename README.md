@@ -1,5 +1,10 @@
 # Takara.ai Research Papers and Tools Repository
+# THIS HAS NOW BEEN MOVED TO HUGGING FACE
 
+LINK: (https://huggingface.co/collections/takara-ai/synthetic-data-generation-668a6e9a3e1066772ff83ebb)[https://huggingface.co/collections/takara-ai/synthetic-data-generation-668a6e9a3e1066772ff83ebb]
+
+---
+# ARCHIVED
 ## 技術と知識 (Gijutsu to Chishiki)
 
 Welcome to Takara.ai's repository for our favourite research papers and tools for AI and infrastructure applications. We have moved our collection to a dedicated Wiki to provide a more organized and user-friendly experience. Please visit our Wiki to access and contribute to our curated resources.
